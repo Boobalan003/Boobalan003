@@ -15,7 +15,7 @@
 </a>
 
 - 📝 Check out my projects on [GitHub](https://github.com/Boobalan003).
-- 💬 Ask me about **Python, Spring Boot, and React**.
+- 💬 Ask me about **Python,SQL, Spring Boot, and React**.
 - 📫 Contact me at **boobalanmj1234@gmail.com**.
 - 📄 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sathiyapravin-p-b183b9213/)**.
 
